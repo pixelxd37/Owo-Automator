@@ -1,5 +1,6 @@
 # Owo-Automator
-This can be used to automate Owo hunt and battle commands without getting banned
+This can be used to automate Owo hunt and battle commands
+Use of this bot may lead to actions being taken against your OwO profile and/or your Discord account. We are not responsible for them.
 
 ## How It Works
 1. **Messages Sent**:
