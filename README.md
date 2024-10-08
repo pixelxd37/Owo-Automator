@@ -1,11 +1,6 @@
 # Owo-Automator
 This can be used to automate Owo hunt and battle commands without getting banned
 
-# AutoOwo
-
-## Description
-AutoOwo is a script that automatically types messages in a text box at specified intervals.
-
 ## How It Works
 1. **Messages Sent**:
    - **"owo hunt"**: This message is sent first.
