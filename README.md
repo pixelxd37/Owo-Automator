@@ -1,4 +1,4 @@
-# Owo-Automator
+# Owo-Automator ( PATCHED ) IT ONLY WORKS FOR 1 HOUR, AFTER THAT OWO WILL SEND YOU 5 WARNS TO FILL A CAPTCHA IF U DON'T U ARE BANNED
 This can be used to automate Owo hunt and battle commands
 Use of this bot may lead to actions being taken against your OwO profile and/or your Discord account. We are not responsible for them.
 
